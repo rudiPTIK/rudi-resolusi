@@ -5,4 +5,4 @@ sholat 5 waktu tidak putus
 sholat tahajud tidak putus
 puasa senin kamis
 sedekah diperbanyak
-selesai s1 lanjut s2
+membuat aplikasi
